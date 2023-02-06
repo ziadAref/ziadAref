@@ -1,8 +1,5 @@
-###Hey 🤍, I'm Ziaad Aaref
+### Hey 🤍, I'm Ziaad Aaref
 ### Jr.Front-End Developer
-
-###My skills 🔰
-html5 css3 bootstrap javascript react python git figma
 
 <!--
 **ziadAref/ziadAref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

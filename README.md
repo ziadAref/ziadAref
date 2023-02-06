@@ -1,5 +1,10 @@
 ### Hey 🤍, I'm Ziaad Aaref
-### Jr.Front-End Developer
+## I'm a Junior Front End Developer with a passion for creating innovative and engaging user experiences. 
+Experienced in HTML, CSS, JavaScript, and React.js. 
+Familiar with UI design by Figma. 
+Highly motivated to learn new technologies and develop creative solutions to complex problems. 
+Excellent communicator who works well in both individual and team settings. 
+Committed to deliver high-quality work on time and within budget.
 
 <!--
 **ziadAref/ziadAref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
